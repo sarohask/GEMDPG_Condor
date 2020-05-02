@@ -2,9 +2,6 @@
 
 hostname
 
-#pinpoint to root location
-source /cvmfs/sft.cern.ch/lcg/releases/LCG_87/ROOT/6.08.02/x86_64-centos7-gcc62-opt/bin/thisroot.sh
-
 mkdir build
 cd build
 

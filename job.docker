@@ -1,7 +1,7 @@
 universe = docker
 executable = ./condor_sim.sh
 transfer_input_files=TrGEMG4
-docker_image = sarohaks/gemdpg_condor
+docker_image = sarohaks/gemdpgcondor
 request_memory = 6000
 
 should_transfer_files = YES
