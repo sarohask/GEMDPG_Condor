@@ -1,3 +1,4 @@
+FROM rootproject/root-ubuntu16
 FROM andreadotti/geant4-dev:10.0.p04
 
 ADD https://geant4-data.web.cern.ch/geant4-data/datasets/G4NDL.4.4.tar.gz /usr/local/geant4/data/
